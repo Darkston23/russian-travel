@@ -1,0 +1,10 @@
+.website__link {
+  color: #ffffff;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.125rem;
+  line-height: 22px;
+  letter-spacing: 2px;
+  text-decoration: underline;
+}
