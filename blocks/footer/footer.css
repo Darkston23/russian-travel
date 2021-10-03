@@ -33,5 +33,6 @@
     grid-template-rows: repeat(2, max-content);
     gap: 48px 0px;
     justify-content: left;
+    margin: 64px auto 24px 16px;
   }
 }
